@@ -76,6 +76,13 @@ const dccomics = [
         "groups":" liga de la justicia",
         "price": "10.990",
         "img":"https://cdnx.jumpseller.com/shazam-online/image/12960159/resize/255/255?1657143518"  
+    },
+    {
+        "id":22,
+        "name":"Crisis en nueva genesis  ",
+        "groups":" liga de la injusticia",
+        "price": "15.500",
+        "img":"https://cdnx.jumpseller.com/shazam-online/image/23582901/colecci_n_h_roes_y_villanos_25_lia_de_la_justicia_crisis_en_nueva_g_nesis.jpg?1652893588"  
     }
 
 ];
